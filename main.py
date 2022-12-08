@@ -34,8 +34,8 @@ async def add_db(message: types.Message):
     doc = docx.Document()
     sections = doc.sections
     section = sections[0]
-    section.page_height = Mm(148)
-    section.page_width = Mm(105)
+    section.page_height = Mm(297)
+    section.page_width = Mm(210)
     # section.header_distance = Mm(12.7)
     # section.footer_distance = Mm(12.7)
 
@@ -47,8 +47,8 @@ async def add_db(message: types.Message):
     for section in sections:
         section.top_margin = Inches(0.2)
         section.bottom_margin = Inches(0)
-        section.left_margin = Inches(0.2)
-        section.right_margin = Inches(0.2)
+        section.left_margin = Inches(2)
+        section.right_margin = Inches(2)
     try:
         # print(delivery_data[0]["orders"][0]["orderCode"])
         for order in delivery_data[0]["orders"]:
@@ -126,8 +126,8 @@ async def pickup(message: types.Message):
     doc = docx.Document()
     sections = doc.sections
     section = sections[0]
-    section.page_height = Mm(148)
-    section.page_width = Mm(105)
+    section.page_height = Mm(297)
+    section.page_width = Mm(210)
     # section.header_distance = Mm(12.7)
     # section.footer_distance = Mm(12.7)
 
@@ -139,8 +139,8 @@ async def pickup(message: types.Message):
     for section in sections:
         section.top_margin = Inches(0.2)
         section.bottom_margin = Inches(0)
-        section.left_margin = Inches(0.2)
-        section.right_margin = Inches(0.2)
+        section.left_margin = Inches(2)
+        section.right_margin = Inches(2)
     try:
         # print(delivery_data[0]["orders"][0]["orderCode"])
         for order in delivery_data[0]["orders"]:

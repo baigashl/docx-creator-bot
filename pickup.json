@@ -4,44 +4,56 @@
         "total": 1,
         "orders": [
             {
-                "orderCode": "230255851",
+                "orderCode": "230347002",
                 "entries": [
                     {
-                        "name": "California Gold Nutrition Витамин D3 50 мкг 2000 МЕ 90 капсул",
-                        "quantity": 1,
-                        "basePrice": 1689.0,
-                        "totalPrice": 1689.0,
+                        "name": "California Gold Nutrition витамин Vitamin D-3 125 mcg (5000 IU) 90 капсул",
+                        "quantity": 2,
+                        "basePrice": 2299.0,
+                        "totalPrice": 4598.0,
                         "images": [
                             {
-                                "qualifier": "california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1",
+                                "qualifier": "california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-(5000-iu)-90-kapsul-100505318-1",
                                 "formatToUrlMap": {
-                                    "previewLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/heb/hb2/46407417298974/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1.jpg",
-                                    "gallerySmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/he6/hc0/46407417364510/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1.jpg",
-                                    "previewSmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/h42/h15/46407417430046/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1.jpg",
-                                    "galleryLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h1b/h10/46407417626654/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1.jpg",
-                                    "previewMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/h74/h7c/46407417561118/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1.jpg",
-                                    "ORIGINAL": "https://cdn-kaspi.kz/medias/sys_master/images/images/h0d/hf5/46407417495582/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1.jpg",
-                                    "galleryMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/hd0/hc8/46407417692190/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-1.jpg"
+                                    "previewLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/hd0/h14/33165897924638/california-gold-nutrition-vitamin-d-3-5000-iu-90-kapsul-100505318-1-Container.jpg",
+                                    "gallerySmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/h12/h22/33165898481694/california-gold-nutrition-vitamin-d-3-5000-iu-90-kapsul-100505318-1-Container.jpg",
+                                    "previewSmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/h26/hd8/33165897039902/california-gold-nutrition-vitamin-d-3-5000-iu-90-kapsul-100505318-1-Container.jpg",
+                                    "galleryLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h9c/h40/33165899464734/california-gold-nutrition-vitamin-d-3-5000-iu-90-kapsul-100505318-1-Container.jpg",
+                                    "previewMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/h3d/h67/33165897400350/california-gold-nutrition-vitamin-d-3-5000-iu-90-kapsul-100505318-1-Container.jpg",
+                                    "ORIGINAL": "https://cdn-kaspi.kz/medias/sys_master/images/images/hc3/haa/30535938965534/california-gold-nutrition-vitamin-d-3-5000-iu-90-kapsul-100505318-1-Container.jpg",
+                                    "galleryMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/hc3/h2c/33165898874910/california-gold-nutrition-vitamin-d-3-5000-iu-90-kapsul-100505318-1-Container.jpg"
                                 }
                             },
                             {
-                                "qualifier": "california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2",
+                                "qualifier": "california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-(5000-iu)-90-kapsul-100505318-2",
                                 "formatToUrlMap": {
-                                    "previewLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h9b/h81/46407417757726/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2.jpg",
-                                    "gallerySmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/h3d/h52/46407417823262/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2.jpg",
-                                    "previewSmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/ha7/hcb/46407417888798/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2.jpg",
-                                    "galleryLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h3e/he5/46407418085406/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2.jpg",
-                                    "previewMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/h09/h39/46407418019870/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2.jpg",
-                                    "ORIGINAL": "https://cdn-kaspi.kz/medias/sys_master/images/images/h79/h3f/46407417954334/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2.jpg",
-                                    "galleryMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/h61/h9c/46407418150942/california-gold-nutrition-vitamin-d3-50-mkg-2000-me-90-kapsul-102521989-2.jpg"
+                                    "previewLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h53/h7d/49908117012510/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-2.jpg",
+                                    "gallerySmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/hff/h48/49908117078046/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-2.jpg",
+                                    "previewSmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/h5f/hc7/49908117143582/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-2.jpg",
+                                    "galleryLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h3e/h85/49908117340190/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-2.jpg",
+                                    "previewMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/he8/ha6/49908117274654/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-2.jpg",
+                                    "ORIGINAL": "https://cdn-kaspi.kz/medias/sys_master/images/images/h0f/hd2/49908117209118/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-2.jpg",
+                                    "galleryMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/h09/h3e/49908117405726/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-2.jpg"
+                                }
+                            },
+                            {
+                                "qualifier": "california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-(5000-iu)-90-kapsul-100505318-3",
+                                "formatToUrlMap": {
+                                    "previewLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h0a/he9/49908117471262/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-3.jpg",
+                                    "gallerySmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/h15/h88/49908117536798/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-3.jpg",
+                                    "previewSmall": "https://cdn-kaspi.kz/medias/sys_master/images/images/h18/h04/49908117602334/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-3.jpg",
+                                    "galleryLarge": "https://cdn-kaspi.kz/medias/sys_master/images/images/h2b/h52/49908117798942/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-3.jpg",
+                                    "previewMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/h9f/h8d/49908117733406/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-3.jpg",
+                                    "ORIGINAL": "https://cdn-kaspi.kz/medias/sys_master/images/images/he3/he3/49908117667870/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-3.jpg",
+                                    "galleryMedium": "https://cdn-kaspi.kz/medias/sys_master/images/images/hab/hd7/49908117864478/california-gold-nutrition-vitamin-vitamin-d-3-125-mcg-5000-iu-90-kapsul-100505318-3.jpg"
                                 }
                             }
                         ]
                     }
                 ],
-                "totalPrice": 1689.0,
+                "totalPrice": 4598.0,
                 "customer": {
-                    "firstname": "Арай К."
+                    "firstname": "Мария Х."
                 },
                 "orderStatus": "ACCEPTED_BY_MERCHANT",
                 "delivery": {
@@ -55,12 +67,12 @@
                 "payment": {
                     "paymentMode": "GOLD",
                     "needToSignPapers": false,
-                    "approvedByBankDate": 1670388113630
+                    "approvedByBankDate": 1670417995493
                 },
                 "pickupPoint": "г. Алматы,  улица Жандосова,  98",
                 "orderStates": [],
-                "createDate": 1670388113630,
-                "modifiedDate": 1670403169378,
+                "createDate": 1670417995493,
+                "modifiedDate": 1670522686908,
                 "isCargoAssembly": false,
                 "preOrder": false
             }
